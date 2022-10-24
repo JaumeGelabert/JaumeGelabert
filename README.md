@@ -21,7 +21,6 @@ const jaume = {
   },
   learning: ['TypeScript', 'web3'],
 };
-}
 ```
 
 [![Linkedin: LinkedIn](https://img.shields.io/badge/-jaumegelabert-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaumegelabert/)](https://www.linkedin.com/in/jaumegelabert/)
