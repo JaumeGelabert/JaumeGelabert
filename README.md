@@ -1,7 +1,27 @@
-<div align="center">
-  <h2>:wave: Hi, I'm Jaume :computer:</h2>
+<div>
+  <h2>:wave: Hey, soy Jaume :computer:</h2>
 </div>
-<p>I'm from :earth_africa: Mallorca, Spain but I live in :round_pushpin: Barcelona.</p>
-<p>:chart_with_upwards_trend:	I'm a Business graduate and a Computer Science student.</p>
+
+```javascript
+const jaume = {
+  location: 'Barcelona, España',
+  openToWork: true,
+  desiredRole: 'Full Stack developer',
+  tools: ['VSCode', 'Postman'],
+  technologies: {
+    frontend: {
+      js: 'React',
+      tools: ['Chakra-UI', 'Bootstrap', 'Material Design', 'Jest'],
+    },
+    backend: {
+      js: ['Node', 'Express'],
+      tools: ['GraphQL', 'Jest'],
+    },
+    databases: ['Mongo DB'],
+  },
+  learning: ['TypeScript', 'web3'],
+};
+}
+```
 
 [![Linkedin: LinkedIn](https://img.shields.io/badge/-jaumegelabert-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaumegelabert/)](https://www.linkedin.com/in/jaumegelabert/)
