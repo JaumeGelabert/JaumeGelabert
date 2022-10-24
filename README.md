@@ -1,5 +1,5 @@
 <div>
-  <h2>:wave: Hey, soy Jaume :computer:</h2>
+  <h2>:wave: Hey!</h2>
 </div>
 
 ```javascript
@@ -7,6 +7,7 @@ const jaume = {
   location: 'Barcelona, España',
   openToWork: true,
   desiredRole: 'Full Stack developer',
+  studying: 'Computer Science, Ingeieria Informatica',
   tools: ['VSCode', 'Postman'],
   technologies: {
     frontend: {
@@ -23,4 +24,6 @@ const jaume = {
 };
 ```
 
-[![Linkedin: LinkedIn](https://img.shields.io/badge/-jaumegelabert-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaumegelabert/)](https://www.linkedin.com/in/jaumegelabert/)
+Conectamos? [![Linkedin: LinkedIn](https://img.shields.io/badge/-jaumegelabert-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaumegelabert/)](https://www.linkedin.com/in/jaumegelabert/)
+
+[Visita mi portfolio](https://www.jaumegelabert.dev) <i>(estoy trabajando en él)</i>.
