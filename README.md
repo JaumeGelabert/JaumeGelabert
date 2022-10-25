@@ -21,9 +21,12 @@ const jaume = {
     databases: ['Mongo DB'],
   },
   learning: ['TypeScript', 'web3'],
+  contact: {
+    portfolio: 'https://www.jaumegelabert.dev',
+    linkedin: 'https://www.linkedin.com/in/jaumegelabert/',
+    email: 'hola@jaumegelabert.dev',
+  },
 };
 ```
 
-Conectamos? [![Linkedin: LinkedIn](https://img.shields.io/badge/-jaumegelabert-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaumegelabert/)](https://www.linkedin.com/in/jaumegelabert/)
-
-[Visita mi portfolio](https://www.jaumegelabert.dev) <i>(estoy trabajando en él)</i>.
+[![Linkedin: LinkedIn](https://img.shields.io/badge/-jaumegelabert-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaumegelabert/)](https://www.linkedin.com/in/jaumegelabert/)
