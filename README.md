@@ -18,9 +18,10 @@ const jaume = {
       js: ['Node', 'Express'],
       tools: ['GraphQL', 'Jest'],
     },
-    databases: ['Mongo DB'],
+    databases: ['Mongo DB', 'PostgreSQL'],
   },
-  learning: ['TypeScript', 'web3'],
+  others: ['C', 'C++'],
+  learning: ['TypeScript', 'SQL', 'web3'],
   contact: {
     portfolio: 'https://www.jaumegelabert.dev',
     linkedin: 'https://www.linkedin.com/in/jaumegelabert/',
