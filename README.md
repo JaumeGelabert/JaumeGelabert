@@ -7,7 +7,7 @@ const jaume = {
   location: 'Barcelona, España',
   openToWork: true,
   desiredRole: 'Full Stack developer',
-  studying: 'Computer Science, Ingeieria Informatica',
+  studying: 'Computer Science',
   tools: ['VSCode', 'Postman'],
   technologies: {
     frontend: {
