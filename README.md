@@ -20,8 +20,8 @@ const jaume = {
     },
     databases: ['Mongo DB', 'PostgreSQL'],
   },
-  others: ['C', 'C++'],
-  learning: ['TypeScript', 'SQL', 'web3'],
+  others: ['C', 'C++', 'Python'],
+  learning: ['TypeScript', 'web3'],
   contact: {
     portfolio: 'https://www.jaumegelabert.dev',
     linkedin: 'https://www.linkedin.com/in/jaumegelabert/',
