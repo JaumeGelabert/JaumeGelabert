@@ -16,9 +16,8 @@ const jaume = {
     },
     backend: {
       js: ['Node', 'Express'],
-      tools: ['GraphQL', 'Jest'],
     },
-    databases: ['Mongo DB', 'PostgreSQL'],
+    databases: ['Mongo DB'],
   },
   others: ['C', 'C++', 'Python'],
   learning: ['TypeScript', 'web3'],
