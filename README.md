@@ -4,10 +4,8 @@
 
 ```javascript
 const jaume = {
-  location: 'Barcelona, España',
-  openToWork: true,
-  desiredRole: 'Full Stack developer',
-  studying: 'Computer Science',
+  location: 'Mallorca, España',
+  role: 'Full Stack developer',
   tools: ['VSCode', 'Postman'],
   technologies: {
     frontend: {
