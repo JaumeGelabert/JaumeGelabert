@@ -20,7 +20,6 @@ const jaume = {
   others: ['C', 'C++', 'Python'],
   learning: ['TypeScript', 'web3'],
   contact: {
-    portfolio: 'https://www.jaumegelabert.dev',
     linkedin: 'https://www.linkedin.com/in/jaumegelabert/',
     email: 'hola@jaumegelabert.dev',
   },
