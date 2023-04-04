@@ -10,7 +10,7 @@ const jaume = {
   technologies: {
     frontend: {
       js: 'React',
-      tools: ['Chakra-UI', 'Material UI', 'Jest'],
+      tools: ['Chakra-UI', 'Tailwind', 'Jest'],
     },
     backend: {
       js: ['Node', 'Express'],
