@@ -4,7 +4,7 @@
 
 ```javascript
 const jaume = {
-  location: 'Mallorca, España',
+  location: 'Spain',
   role: 'Full Stack developer',
   tools: ['VSCode', 'Postman'],
   technologies: {
@@ -21,7 +21,7 @@ const jaume = {
   learning: ['TypeScript', 'web3'],
   contact: {
     linkedin: 'https://www.linkedin.com/in/jaumegelabert/',
-    email: 'hola@jaumegelabert.dev',
+    email: 'gelabertgalmes98@gmail.com',
   },
 };
 ```
