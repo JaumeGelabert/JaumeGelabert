@@ -8,6 +8,8 @@ const jaume = {
   role: 'Full Stack developer',
   tools: ['VSCode', 'Postman'],
   technologies: {
+    nextJS: true,
+    typescript: true,
     frontend: {
       js: 'React',
       tools: ['Chakra-UI', 'Tailwind', 'Jest'],
@@ -18,7 +20,7 @@ const jaume = {
     databases: ['Mongo DB'],
   },
   others: ['C', 'C++', 'Python'],
-  learning: ['TypeScript', 'web3'],
+  learning: ['web3', ...others],
   contact: {
     linkedin: 'https://www.linkedin.com/in/jaumegelabert/',
     email: 'gelabertgalmes98@gmail.com',
