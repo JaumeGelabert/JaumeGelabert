@@ -11,13 +11,13 @@ const jaume = {
     nextJS: true,
     typescript: true,
     frontend: {
-      js: 'React',
+      tsx: 'React',
       tools: ['Chakra-UI', 'Tailwind', 'Jest'],
     },
     backend: {
-      js: ['Node', 'Express'],
+      ts: ['Node', 'Express', 'Firebase'],
     },
-    databases: ['Mongo DB'],
+    databases: ['Mongo DB','Firestore'],
   },
   others: ['C', 'C++', 'Python'],
   learning: ['web3', ...others],
