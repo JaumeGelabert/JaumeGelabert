@@ -21,11 +21,5 @@ const jaume = {
   },
   others: ['C', 'C++', 'Python'],
   learning: ['web3', ...others],
-  contact: {
-    linkedin: 'https://www.linkedin.com/in/jaumegelabert/',
-    email: 'gelabertgalmes98@gmail.com',
-  },
 };
 ```
-
-[![Linkedin: LinkedIn](https://img.shields.io/badge/-jaumegelabert-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaumegelabert/)](https://www.linkedin.com/in/jaumegelabert/)
