@@ -15,7 +15,7 @@ const jaume = {
       tools: ['Tailwind', 'Chakra-UI', 'Jest'],
     },
     backend: {
-      ts: ['Node', 'Express', 'Supabase', 'Firebase'],
+      ts: ['Node', 'Express', 'Next Auth', 'Supabase', 'Firebase'],
     },
     databases: ['Mongo DB','Firestore'],
   },
