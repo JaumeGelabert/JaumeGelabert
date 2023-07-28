@@ -12,7 +12,7 @@ const jaume = {
     typescript: true,
     frontend: {
       tsx: 'React',
-      tools: ['Tailwind', 'Chakra-UI', 'Jest'],
+      tools: ['Tailwind', 'Shadcn/ui', 'Chakra-UI', 'Jest'],
     },
     backend: {
       ts: ['Node', 'Express', 'Next Auth', 'Supabase', 'Firebase'],
