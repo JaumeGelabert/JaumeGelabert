@@ -6,7 +6,7 @@
 const jaume = {
   location: 'Remote 🌍',
   role: 'Full Stack developer',
-  tools: ['VSCode', 'Postman', 'Open API'],
+  tools: ['VSCode', 'Postman', 'Open API', 'Docker'],
   technologies: {
     nextJS: true,
     typescript: true,
