@@ -4,7 +4,7 @@
 
 ```javascript
 const jaume = {
-  location: 'Remote 🌍',
+  location: 'Madrid',
   role: 'Full Stack developer',
   tools: ['VSCode', 'Postman', 'Open API', 'Docker', 'OpenAI'],
   technologies: {
