@@ -17,7 +17,7 @@ const jaume = {
     backend: {
       ts: ['Node', 'Express', 'Next Auth', 'Supabase', 'Firebase'],
     },
-    databases: ['Mongo DB','Firestore'],
+    databases: ['Mongo DB', 'Prisma', 'Firestore'],
   },
   others: ['C', 'C++', 'Python'],
   learning: ['web3', ...others],
